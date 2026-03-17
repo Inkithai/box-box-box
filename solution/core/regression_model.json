@@ -1,0 +1,28 @@
+{
+  "coefficients": {
+    "intercept": 88.35251279796697,
+    "medium_offset": 0.14744146495960836,
+    "hard_offset": 0.34433594559473724,
+    "degradation_linear": 0.07849808005589096,
+    "degradation_quadratic": 5.1972811084541466e-05,
+    "temperature_main": 0.0268384091262856,
+    "medium_temp_interaction": 0.003078098355143437,
+    "hard_temp_interaction": 0.0016183943878420386
+  },
+  "metrics": {
+    "mse": 20.04062638570108,
+    "rmse": 4.4766758186964,
+    "mae": 3.838605948132351,
+    "r_squared": 0.036099991808330234
+  },
+  "features": [
+    "Intercept",
+    "MEDIUM compound",
+    "HARD compound",
+    "Tire age (linear)",
+    "Tire age (squared)",
+    "Track temperature",
+    "MEDIUM \u00d7 Temperature",
+    "HARD \u00d7 Temperature"
+  ]
+}

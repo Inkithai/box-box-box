@@ -1,0 +1,12 @@
+{
+  "soft_linear": 0.12,
+  "soft_quadratic": 0.0048,
+  "soft_offset": 0.0,
+  "medium_linear": 0.08,
+  "medium_quadratic": 0.0032,
+  "medium_offset": 0.75,
+  "hard_linear": 0.05,
+  "hard_quadratic": 0.002,
+  "hard_offset": 1.5,
+  "pit_lane_time_adjustment": 0.0
+}

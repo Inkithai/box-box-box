@@ -1,0 +1,11 @@
+# Box Box Box - F1 Pit Strategy Optimization
+# Required dependencies for race_simulator.py
+
+# Machine Learning (for model inference)
+lightgbm>=3.3.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+
+# Optional: For retraining models
+# pandas>=1.3.0
+# joblib>=1.1.0

@@ -1,0 +1,27 @@
+{
+  "SOFT": {
+    "linear_degradation": 0.08,
+    "quadratic_degradation": 0.0048,
+    "base_offset": 0.0,
+    "optimal_temperature": 28.0,
+    "temp_sensitivity": 0.035
+  },
+  "MEDIUM": {
+    "linear_degradation": 0.05,
+    "quadratic_degradation": 0.0032,
+    "base_offset": 0.5,
+    "optimal_temperature": 30.0,
+    "temp_sensitivity": 0.025
+  },
+  "HARD": {
+    "linear_degradation": 0.04,
+    "quadratic_degradation": 0.002,
+    "base_offset": 1.25,
+    "optimal_temperature": 32.0,
+    "temp_sensitivity": 0.018
+  },
+  "race": {
+    "base_lap_time_adjustment": 0.0,
+    "pit_lane_time_adjustment": -2.5
+  }
+}

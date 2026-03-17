@@ -1,0 +1,12 @@
+{
+  "soft_bonus": 15.0,
+  "medium_bonus": 8.0,
+  "hard_bonus": 0.0,
+  "optimal_pit_stops": 2,
+  "pit_deviation_penalty": 5.0,
+  "position_weight": -0.3,
+  "early_pit_bonus": 2.0,
+  "late_pit_penalty": 1.5,
+  "top_10_bonus": -0.5,
+  "bottom_5_boost": -2.0
+}
